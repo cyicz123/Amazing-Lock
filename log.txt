@@ -1,0 +1,174 @@
+2021-01-13 20:00:00,127 INFO 17732 Starting...
+2021-01-13 20:00:00,449 INFO 19392 access_token为：24.449e8571c78cbbb2e3ee9b9c442c565b.2592000.1613131199.282335-23526392
+2021-01-13 20:00:00,449 INFO 19392 expires_in为：2592000
+2021-01-13 20:00:01,973 INFO 14640 group_id:402-user_id:chengyue-score:49.189281463623%
+2021-01-13 20:00:02,591 INFO 14640 group_id:402-user_id:chengyue-score:49.189281463623%
+2021-01-13 20:00:03,248 INFO 14640 group_id:402-user_id:chengyue-score:52.482189178467%
+2021-01-13 20:00:03,840 INFO 14640 group_id:402-user_id:chengyue-score:52.482189178467%
+2021-01-13 20:00:04,413 INFO 14640 group_id:402-user_id:chengyue-score:51.687038421631%
+2021-01-13 20:00:04,979 INFO 14640 group_id:402-user_id:chengyue-score:51.687038421631%
+2021-01-13 20:00:05,535 INFO 14640 group_id:402-user_id:chengyue-score:42.943817138672%
+2021-01-13 20:00:06,219 INFO 14640 group_id:402-user_id:chengyue-score:42.943817138672%
+2021-01-13 20:00:07,040 INFO 14640 group_id:402-user_id:chengyue-score:54.101600646973%
+2021-01-13 20:00:07,586 INFO 14640 group_id:402-user_id:chengyue-score:54.101600646973%
+2021-01-13 20:00:08,215 INFO 14640 group_id:402-user_id:chengyue-score:49.400535583496%
+2021-01-13 20:00:08,790 INFO 14640 group_id:402-user_id:chengyue-score:49.400535583496%
+2021-01-13 20:00:09,417 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:09,979 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:10,549 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:11,152 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:11,795 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:12,380 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:12,931 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:13,556 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:14,148 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:14,760 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:15,342 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:15,866 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:16,455 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:17,068 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:17,662 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:18,349 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:18,932 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:19,467 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:20,040 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:20,631 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:21,200 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:21,810 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:22,367 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:22,911 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:23,484 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:24,064 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:24,602 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:25,186 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:25,738 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:26,277 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:26,829 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:27,469 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:28,020 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:28,620 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:29,225 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:29,770 INFO 17920 group_id:402-user_id:chengyue
+2021-01-13 20:00:30,355 INFO 14640 group_id:402-user_id:chengyue-score:85.765083312988%
+2021-01-13 20:00:31,135 INFO 14640 group_id:402-user_id:chengyue-score:1.9496116638184%
+2021-01-13 20:00:31,677 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:32,239 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:32,776 INFO 14640 group_id:402-user_id:chengyue-score:3.814697265625e-06%
+2021-01-13 20:00:33,292 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:33,975 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:34,527 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:35,097 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:35,809 INFO 14640 group_id:402-user_id:chengyue-score:2.8385162353516%
+2021-01-13 20:00:36,437 INFO 14640 group_id:402-user_id:chengyue-score:1.2896003723145%
+2021-01-13 20:00:36,983 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:37,512 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:38,109 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:38,680 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:40,403 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:40,979 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:41,570 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:42,143 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:42,785 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:43,316 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:43,852 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:44,515 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:45,107 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:45,777 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:46,292 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:46,834 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:47,405 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:48,054 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:48,603 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:49,148 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:49,773 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:50,379 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:50,931 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:51,471 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:52,157 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:52,659 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:53,263 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:54,188 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:54,752 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:55,352 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:55,895 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:56,477 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:56,984 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:57,570 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:58,210 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:58,824 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:59,311 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:00:59,900 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:00,418 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:00,963 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:01,482 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:02,065 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:02,581 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:03,098 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:03,614 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:04,141 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:04,660 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:05,210 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:05,711 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:06,268 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:06,833 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:07,388 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:07,994 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:08,555 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:09,098 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:09,658 INFO 14640 group_id:402-user_id:chengyue-score:1.4840087890625%
+2021-01-13 20:01:10,263 INFO 14640 group_id:402-user_id:chengyue-score:2.6027526855469%
+2021-01-13 20:01:10,747 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:11,329 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:11,893 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:12,413 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:12,963 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:13,544 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:14,069 WARNING 14640 error_code:222202,error_msg:pic not has face
+2021-01-13 20:01:14,656 WARNING 14640 error_code:223120,error_msg:liveness check fail
+2021-01-13 20:01:15,202 INFO 14640 group_id:402-user_id:chengyue-score:84.651191711426%
+2021-01-13 20:01:15,207 INFO 17732 ending
+2021-01-13 20:04:50,255 INFO 18028 Starting...
+2021-01-13 20:04:50,586 INFO 18312 access_token为：24.22d1a16e2c9a1419ecbf1c952d239dd4.2592000.1613131489.282335-23526392
+2021-01-13 20:04:50,586 INFO 18312 expires_in为：2592000
+2021-01-13 20:04:51,985 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:04:52,495 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:04:53,027 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:04:53,593 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:04:54,158 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:04:54,714 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:04:55,257 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:04:55,839 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:04:56,568 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:04:57,164 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:04:57,718 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:04:58,341 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:04:58,885 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:04:59,489 INFO 18560 group_id:402-user_id:chengyue-score:4.7868347167969%
+2021-01-13 20:05:00,009 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:00,574 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:01,141 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:01,756 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:02,314 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:02,922 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:03,532 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:04,076 WARNING 18560 error_code:222202,error_msg:pic not has face
+2021-01-13 20:05:04,593 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:05,168 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:05,746 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:06,280 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:06,852 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:07,415 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:07,971 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:08,537 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:09,007 INFO 18560 group_id:402-user_id:chengyue-score:82.083572387695%
+2021-01-13 20:05:09,542 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:10,147 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:10,695 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:11,202 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:11,716 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:12,256 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:12,845 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:13,391 INFO 19800 group_id:402-user_id:chengyue
+2021-01-13 20:05:13,880 WARNING 18560 error_code:222202,error_msg:pic not has face
+2021-01-13 20:05:14,378 WARNING 18560 error_code:222202,error_msg:pic not has face
+2021-01-13 20:05:14,584 INFO 18028 ending
